@@ -1,0 +1,10 @@
+Amount  Total Price (EUR)	Single Price (EUR)    Mouser-Nr.:	        Articel Nr.:	    Description.:
+15	    € 1,54	          € 1,54                700-DS2411RT&R	    DS2411R+T&R	      Sicherheits-/Authentifizierungs-ICs Sicherheits-/Authentifizierungs-ICs Silicon Serial Number with VCC Input
+10	    € 0,071   	      € 0,071               771-BAT54S-T/R	    BAT54S,215	      Schottky Dioden & Gleichrichter Schottky Dioden & Gleichrichter BAT54S/SOT23/TO-236AB
+20	    € 0,186   	      € 0,186               581-KAM21KR72A104KU	KAM21KR72A104KU	  Kondensator aus mehreren Keramikschichten MLCC - SMD/SMT Kondensator aus mehreren Keramikschichten MLCC
+6	      € 1,18	          € 1,18                651-1890976	        1890976	          Feste Anschlussblöcke Feste Anschlussblöcke 3P 5mm 90DEG
+2	      € 3,71	          € 3,71                651-1729076	        1729076	          Feste Anschlussblöcke Feste Anschlussblöcke 8P 5mm 90DEG
+6	      € 2,65	          € 2,65                651-3214663	        3214663	          DIN-Schienenanschlussblöcke DIN-Schienenanschlussblöcke PTTBS 1,5/S-KNX
+4	      € 0,618   	      € 0,618               651-3214664	        3214664	          Anschlussblocktools und Zubehör Anschlussblocktools und Zubehör D-PTTBS 1,5/S-KNX
+2	      € 0,827   	      € 0,827               651-3214699	        3214699	          Anschlussblocktools und Zubehör Anschlussblocktools und Zubehör D-PTTBS 1,5/S
+2	      € 0,979   	      € 0,979               651-3022276	        3022276	          Anschlussblocktools und Zubehör Anschlussblocktools und Zubehör CLIPFIX 35-5
